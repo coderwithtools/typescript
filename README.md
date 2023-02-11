@@ -8,12 +8,12 @@ Welcome to our Typescript Repository, here you will find fundamental typescript 
 
 ## List of Programs 
 
-1. Program to print the following pattern:
-    5432* <br>
-    543*1 <br>
-    54*21 <br>
-    5*321 <br>
-    *4321 <br>
+1. Program to print the following pattern: <br>
+    5432	&lowast; <br>
+    543	&lowast;1 <br>
+    54	&lowast;21 <br>
+    5	&lowast;321 <br>
+    	&lowast;4321 <br>
 2. Program to check Automorphic Number.
 
 3. Program to print Fibonacci series till nth element using for loop.
