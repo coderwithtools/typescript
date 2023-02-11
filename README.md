@@ -35,6 +35,11 @@ Welcome to our Typescript Repository, here you will find fundamental typescript 
 11. Program to count frequency of each element in an array. 
 ## Screenshots
 
+6.Pallindrome Number
+
+![WhatsApp Image 2023-02-11 at 11 07 33](https://user-images.githubusercontent.com/124862671/218243158-bd696143-b56c-4d36-8d49-c7719572377d.jpg)
+
+
 3.Fibonacci Number 
 
 ![Screenshot_20230211_102243](https://user-images.githubusercontent.com/124862671/218243029-3ac28402-401b-48ad-b5c1-651af2e1f5f4.png)
