@@ -35,15 +35,15 @@ Welcome to our Typescript Repository, here you will find fundamental typescript 
 11. Program to count frequency of each element in an array. 
 ## Screenshots
 
-1.Fibonacci Number 
+3.Fibonacci Number 
 
 ![Screenshot_20230211_102243](https://user-images.githubusercontent.com/124862671/218243029-3ac28402-401b-48ad-b5c1-651af2e1f5f4.png)
 
-2.Megic Number
+4.Megic Number
 
 ![WhatsApp Image 2023-02-11 at 11 07 27](https://user-images.githubusercontent.com/124862671/218243036-6ce23bc5-831d-445e-ad54-64550d4d35d5.jpg)
 
-3.Linear Search
+5.Linear Search
 
 ![WhatsApp Image 2023-02-11 at 11 07 30](https://user-images.githubusercontent.com/124862671/218243041-a2f184f0-fa8a-4d03-ae58-92e0ebc6cb03.jpg)
 
