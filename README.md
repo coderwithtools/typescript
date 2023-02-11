@@ -9,11 +9,11 @@ Welcome to our Typescript Repository, here you will find fundamental typescript 
 ## List of Programs 
 
 1. Program to print the following pattern:
-    >1234* 
-    >123*5
-    >12*45
-    >1*345
-    >*2345
+    1234* <br> 
+    123*5 <br> 
+    12*45 <br> 
+    1*345 <br> 
+    *2345 <br> 
 2. Program to check Automorphic Number.
 
 3. Program to print Fibonacci series till nth element using for loop.
