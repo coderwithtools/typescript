@@ -39,6 +39,16 @@ Welcome to our Typescript Repository, here you will find fundamental typescript 
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+
 ## Authors
 
 - [@octokatherine](https://www.github.com/octokatherine)
+
