@@ -68,6 +68,10 @@ Welcome to our Typescript Repository, here you will find fundamental typescript 
 
 ![Screenshot_20230212_174507](https://user-images.githubusercontent.com/124862671/218310504-577721e9-7087-47ab-b510-0b12c7934f63.png)
 
+8.Binery search
+
+![Screenshot_20230212_175344](https://user-images.githubusercontent.com/124862671/218310896-c7ac86f7-e2d9-4a1a-8923-445c4a0c4ab5.png)
+
 9.Armstrong Number
 
 ![Screenshot_20230212_144452](https://user-images.githubusercontent.com/124862671/218307167-386c9c29-0981-4449-98ed-adb42dc0c8ea.png)
