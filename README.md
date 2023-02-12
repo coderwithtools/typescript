@@ -76,7 +76,7 @@ Welcome to our Typescript Repository, here you will find fundamental typescript 
 
 ![Screenshot_20230212_144452](https://user-images.githubusercontent.com/124862671/218307167-386c9c29-0981-4449-98ed-adb42dc0c8ea.png)
 
-10.IOdentity Metrix
+10.Identity Metrix
 
 ![Screenshot_20230212_212142](https://user-images.githubusercontent.com/124862671/218321636-3fc89420-e1d0-4152-b8d9-00b129621732.png)
 
