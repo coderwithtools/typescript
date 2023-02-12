@@ -64,6 +64,10 @@ Welcome to our Typescript Repository, here you will find fundamental typescript 
 
 ![WhatsApp Image 2023-02-11 at 11 07 33](https://user-images.githubusercontent.com/124862671/218243158-bd696143-b56c-4d36-8d49-c7719572377d.jpg)
 
+7.Add 2 Metrix
+
+![Screenshot_20230212_174507](https://user-images.githubusercontent.com/124862671/218310504-577721e9-7087-47ab-b510-0b12c7934f63.png)
+
 9.Armstrong Number
 
 ![Screenshot_20230212_144452](https://user-images.githubusercontent.com/124862671/218307167-386c9c29-0981-4449-98ed-adb42dc0c8ea.png)
