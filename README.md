@@ -33,6 +33,8 @@ Welcome to our Typescript Repository, here you will find fundamental typescript 
 10. Program to check whether a Matrix is a Identity Matrix for Multiplication.
 
 11. Program to count frequency of each element in an array. 
+
+12. Program to Quicksort.
 ## Screenshots
 
 
@@ -68,7 +70,11 @@ Welcome to our Typescript Repository, here you will find fundamental typescript 
 
 11.Frequency
 
-![Screenshot_20230212_144452](https://user-images.githubusercontent.com/124862671/218305001-6015ea36-95d3-4943-9f38-edeb038d877e.png)
+![Screenshot_20230212_171642](https://user-images.githubusercontent.com/124862671/218309147-56f6d367-57c1-44e6-ae97-d1078ac2840d.png)
+
+12.Quicksort
+
+![Screenshot_20230212_164454](https://user-images.githubusercontent.com/124862671/218309148-ed908784-d456-4e85-98cc-205f90b34a38.png)
 
 ## Deployment
 
