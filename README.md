@@ -88,12 +88,7 @@ Welcome to our Typescript Repository, here you will find fundamental typescript 
 
 ![Screenshot_20230212_164454](https://user-images.githubusercontent.com/124862671/218309148-ed908784-d456-4e85-98cc-205f90b34a38.png)
 
-## Deployment
 
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/dwYC8ynK/Screenshot-2026-03-22-193902.png)
-To deploy this project run
 
 ```bash
   npm run deploy
