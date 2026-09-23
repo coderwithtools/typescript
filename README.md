@@ -90,6 +90,9 @@ Welcome to our Typescript Repository, here you will find fundamental typescript 
 
 ## Deployment
 
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/dwYC8ynK/Screenshot-2026-03-22-193902.png)
 To deploy this project run
 
 ```bash
